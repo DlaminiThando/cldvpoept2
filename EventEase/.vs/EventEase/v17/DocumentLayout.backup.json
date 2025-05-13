@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\models\\venues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:models\\venues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\eventease.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:eventease.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-dlaminithando\\eventease\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09D6137-D4D6-4B7A-87A5-3A580E9E71EC}|EventEase.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventEase.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\EventEase.csproj",
+              "RelativeDocumentMoniker": "EventEase.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\EventEase.csproj",
+              "RelativeToolTip": "EventEase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T19:44:42.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T19:05:59.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T18:55:57.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAA+/////8JwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T18:54:04.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T16:22:58.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Details.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T16:21:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T16:04:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T11:42:13.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T11:41:14.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T11:37:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA6vQIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T11:36:15.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T11:31:12.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventEase",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\EventEase.csproj",
+              "RelativeDocumentMoniker": "EventEase.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\EventEase.csproj",
+              "RelativeToolTip": "EventEase.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T11:17:50.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T10:46:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Details.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T10:45:18.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:03:07.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T09:41:04.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T09:41:00.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:19:29.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:18:59.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAAQAAACgZmZmZiYgwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:17:32.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:05:00.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:51:54.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:42:11.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:37:20.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T16:51:29.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:10:15.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:52:56.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA2wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:50:39.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\Bookings.cs",
+              "RelativeDocumentMoniker": "Models\\Bookings.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\Bookings.cs",
+              "RelativeToolTip": "Models\\Bookings.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:50:36.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "Models\\Events.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\Events.cs",
+              "RelativeToolTip": "Models\\Events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:50:26.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venues.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\Venues.cs",
+              "RelativeDocumentMoniker": "Models\\Venues.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\Models\\Venues.cs",
+              "RelativeToolTip": "Models\\Venues.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:50:10.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

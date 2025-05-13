@@ -1,0 +1,146 @@
+﻿@{
+    ViewData["Title"] = "Welcome to Event Ease";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background-color: #121212;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        color: #e0e0e0;
+        line-height: 1.6;
+    }
+
+    .hero-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    .hero-card {
+        background-color: #1e1e1e;
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+        padding: 50px 40px;
+        max-width: 900px;
+        margin: 20px;
+        transition: transform 0.3s ease-in-out;
+    }
+
+        .hero-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .hero-card h1 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            color: #00bfff;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+
+        .hero-card p {
+            font-size: 1.25rem;
+            color: #cfcfcf;
+            margin-bottom: 40px;
+        }
+
+    .hero-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+        .hero-buttons a {
+            padding: 14px 30px;
+            font-size: 1.1rem;
+            border-radius: 12px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            text-align: center;
+            color: white;
+            display: inline-block;
+        }
+
+            .hero-buttons a:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 8px 18px rgba(255, 255, 255, 0.1);
+            }
+
+    .btn-outline-primary {
+        background-color: #007bff;
+        border: 2px solid #007bff;
+    }
+
+        .btn-outline-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-outline-success {
+        background-color: #28a745;
+        border: 2px solid #28a745;
+    }
+
+        .btn-outline-success:hover {
+            background-color: #218838;
+        }
+
+    .btn-outline-dark {
+        background-color: #6c757d;
+        border: 2px solid #6c757d;
+    }
+
+        .btn-outline-dark:hover {
+            background-color: #343a40;
+        }
+
+    .footer-note {
+        margin-top: 40px;
+        font-size: 1rem;
+        color: #aaaaaa;
+        font-weight: 400;
+    }
+
+        .footer-note strong {
+            color: #00bfff;
+        }
+
+    /* Accessibility focus styles */
+    .hero-buttons a:focus {
+        outline: 3px solid #00bfff;
+        outline-offset: 2px;
+    }
+</style>
+
+<section class="hero-section">
+    <div class="hero-card" role="region" aria-labelledby="hero-header" aria-describedby="hero-description">
+        <h1 id="hero-header">Welcome to <span class="text-primary">Event Ease</span></h1>
+        <p id="hero-description">
+            Simplify your event planning and booking process.<br />
+            Manage venues, schedule events, and handle bookings — all in one sleek platform.
+        </p>
+
+        <div class="hero-buttons">
+            <a asp-controller="Venues" asp-action="Index" class="btn btn-outline-primary" role="button" aria-label="View available venues">
+                🏛️ View Venues
+            </a>
+            <a asp-controller="Events" asp-action="Index" class="btn btn-outline-success" role="button" aria-label="Explore available events">
+                🎉 Explore Events
+            </a>
+            <a asp-controller="Bookings" asp-action="Index" class="btn btn-outline-dark" role="button" aria-label="Manage your bookings">
+                📅 Manage Bookings
+            </a>
+        </div>
+
+        <div class="footer-note">
+            Built with <strong>ASP.NET Core MVC</strong> • Designed to empower event creators
+        </div>
+    </div>
+</section>
