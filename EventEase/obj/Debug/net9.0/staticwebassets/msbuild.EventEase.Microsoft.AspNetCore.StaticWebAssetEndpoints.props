@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventEase.20nyt4zrgv.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"20nyt4zrgv"},{"Name":"integrity","Value":"sha256-8mUGZoHIEPZGFvgEEGNsUuDfHg7zGh6p106TqCns0go="},{"Name":"label","Value":"_content/EventEase/EventEase.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228mUGZoHIEPZGFvgEEGNsUuDfHg7zGh6p106TqCns0go=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 16:31:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228mUGZoHIEPZGFvgEEGNsUuDfHg7zGh6p106TqCns0go=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Jun 2025 07:16:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EventEase/EventEase.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventEase.20nyt4zrgv.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8mUGZoHIEPZGFvgEEGNsUuDfHg7zGh6p106TqCns0go="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228mUGZoHIEPZGFvgEEGNsUuDfHg7zGh6p106TqCns0go=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 16:31:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228mUGZoHIEPZGFvgEEGNsUuDfHg7zGh6p106TqCns0go=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Jun 2025 07:16:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EventEase/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

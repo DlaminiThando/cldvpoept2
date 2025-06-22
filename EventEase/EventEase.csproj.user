@@ -13,6 +13,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>EventEase.Models.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
-    <NameOfLastUsedPublishProfile>C:\Users\lab_services_student\Desktop\part-1-poe-DlaminiThando\EventEase\Properties\PublishProfiles\CLDVPOEPARTONE - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\lab_services_student\Desktop\cldvpoept2\EventEase\Properties\PublishProfiles\cldvp3 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -17,6 +17,7 @@ namespace EventEase.Models
         public string? ImageURL { get; set; }
         [NotMapped]
         public IFormFile? ImageFile { get; set; }
+        public bool IsAvailable { get; set; }
 
         public List<Events> Events { get; set; } = new();
     }

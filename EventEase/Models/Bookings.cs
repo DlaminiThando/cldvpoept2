@@ -36,7 +36,7 @@ namespace EventEase.Models
 
         // Optional - if you are collecting customer info in a text field
         [Display(Name = "Customer ID (Optional)")]
-        public int CustomerID { get; set; }
+
 
         // Navigation properties
         public virtual Events? Event { get; set; }

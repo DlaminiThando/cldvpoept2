@@ -20,6 +20,10 @@ namespace EventEase.Models
         public string? Description { get; set; }
         public decimal TicketPrice { get; set; }
 
+        public int? EventTypeID { get; set; }
+        public EventType EventTypes { get; set; }
+
+
         public Venues? Venue { get; set; }
         public List<Booking> Bookings { get; set; } = new();
     }

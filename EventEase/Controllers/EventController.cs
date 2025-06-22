@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EventEase.Models;
+using System.Linq;
 
 namespace EventEase.Controllers
 {
@@ -15,11 +16,43 @@ namespace EventEase.Controllers
         }
 
         // GET: Events
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string eventType, string searchName, DateTime? eventDate)
         {
-            var events = await _context.Events.Include(e => e.Venue).ToListAsync();
+            var query = _context.Events
+                .Include(e => e.Venue)
+                .AsQueryable();
+
+            // Filter by Event Type
+            if (!string.IsNullOrEmpty(eventType))
+            {
+                query = query.Where(e => e.EventType == eventType);
+            }
+
+            // Filter by Event Name
+            if (!string.IsNullOrEmpty(searchName))
+            {
+                query = query.Where(e => e.EventName.Contains(searchName));
+            }
+
+            // Filter by Specific Date
+            if (eventDate.HasValue)
+            {
+                query = query.Where(e => e.EventDate.Date == eventDate.Value.Date);
+            }
+
+            var eventTypes = await _context.Events
+                .Select(e => e.EventType)
+                .Distinct()
+                .ToListAsync();
+
+            ViewBag.EventTypes = new SelectList(eventTypes);
+            ViewBag.CurrentSearch = searchName;
+            ViewBag.CurrentDate = eventDate?.ToString("yyyy-MM-dd"); // Format for date input value
+
+            var events = await query.ToListAsync();
             return View(events);
         }
+
 
         // GET: Events/Details/5
         public async Task<IActionResult> Details(int? id)

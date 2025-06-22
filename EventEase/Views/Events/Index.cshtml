@@ -1,49 +1,52 @@
-﻿@model IEnumerable<Events>
-
-@{
-    ViewData["Title"] = "Event Management Dashboard";
-}
-
-
-
-<form asp-action="Index" method="get">
-    <p>
-        Search by Event Name: <input type="text" name="searchString" />
-        <input type="submit" value="Search" class="btn btn-primary" />
-    </p>
-</form>
-
-@if (TempData["ErrorMessage"] != null)
-{
-    <div class="alert alert-danger">
-        @TempData["ErrorMessage"]
-    </div>
-}
+﻿@model IEnumerable<EventEase.Models.Events>
 
 <div class="container">
     <h1 class="my-4 text-center text-primary">Event Management Dashboard</h1>
 
+    <!-- Filter Form -->
+    <form method="get" asp-action="Index" class="row g-3 mb-4">
+        <div class="col-md-4">
+            <input type="text" name="eventName" class="form-control" placeholder="Search by Event Name" />
+        </div>
+        <div class="col-md-4">
+            <input type="date" name="eventDate" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <select name="eventType" class="form-select">
+                <option value="">All Event Types</option>
+                @foreach (var type in ViewBag.EventTypes as SelectList)
+                {
+                    <option value="@type.Value">@type.Text</option>
+                }
+            </select>
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
+
+    <!-- Create Button -->
     <div class="row mb-4">
         <div class="col-12">
             <a class="btn btn-success" asp-action="Create">Create New Event</a>
         </div>
     </div>
 
-    <!-- Events Table -->
+    <!-- EVENTS TABLE -->
     <div class="card mb-4">
         <div class="card-header bg-info text-white">
             <h4 class="card-title">Upcoming Events</h4>
         </div>
         <div class="card-body">
             <table class="table table-bordered table-hover">
-                <thead class="thead-dark">
+                <thead class="table-dark">
                     <tr>
-                        <th>@Html.DisplayNameFor(model => model.EventName)</th>
-                        <th>@Html.DisplayNameFor(model => model.EventDate)</th>
-                        <th>@Html.DisplayNameFor(model => model.EventType)</th>
-                        <th>@Html.DisplayNameFor(model => model.Description)</th>
-                        <th>@Html.DisplayNameFor(model => model.TicketPrice)</th>
-                        <th>@Html.DisplayNameFor(model => model.Venue)</th>
+                        <th>Event Name</th>
+                        <th>Event Date</th>
+                        <th>Event Type</th>
+                        <th>Description</th>
+                        <th>Ticket Price</th>
+                        <th>Venue Name</th>
                         <th>Actions</th>
                     </tr>
                 </thead>
@@ -51,12 +54,12 @@
                     @foreach (var item in Model)
                     {
                         <tr>
-                            <td>@Html.DisplayFor(modelItem => item.EventName)</td>
-                            <td>@Html.DisplayFor(modelItem => item.EventDate)</td>
-                            <td>@Html.DisplayFor(modelItem => item.EventType)</td>
-                            <td>@Html.DisplayFor(modelItem => item.Description)</td>
-                            <td>@Html.DisplayFor(modelItem => item.TicketPrice)</td>
-                            <td>@Html.DisplayFor(modelItem => item.Venue.VenueName)</td>
+                            <td>@item.EventName</td>
+                            <td>@item.EventDate.ToString("yyyy-MM-dd HH:mm")</td>
+                            <td>@item.EventType</td>
+                            <td>@item.Description</td>
+                            <td>R @item.TicketPrice</td>
+                            <td>@item.Venue?.VenueName</td>
                             <td>
                                 <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.EventID">Edit</a>
                                 <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.EventID">Details</a>
@@ -68,3 +71,4 @@
             </table>
         </div>
     </div>
+</div>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="CLDVPOEPARTONE" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\lab_services_student\\Desktop\\part-1-poe-DlaminiThando\\EventEase\\obj\\Release\\net9\.0\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="cldvp3" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\lab_services_student\\Desktop\\cldvpoept2\\EventEase\\obj\\Release\\net9\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

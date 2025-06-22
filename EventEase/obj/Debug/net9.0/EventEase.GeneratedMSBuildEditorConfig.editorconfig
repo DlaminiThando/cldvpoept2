@@ -17,101 +17,101 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EventEase
 build_property.RootNamespace = EventEase
-build_property.ProjectDir = C:\Users\lab_services_student\Desktop\part-1-poe-DlaminiThando\EventEase\
+build_property.ProjectDir = C:\Users\lab_services_student\Desktop\cldvpoept2\EventEase\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\Desktop\part-1-poe-DlaminiThando\EventEase
+build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\Desktop\cldvpoept2\EventEase
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Bookings/Create.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Bookings/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Bookings/Delete.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Bookings/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Bookings/Details.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Bookings/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Bookings/Edit.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Bookings/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Bookings/Index.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Bookings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Events/Create.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Events/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Events/Delete.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Events/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Events/Details.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Events/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Events/Edit.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Events/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Events/Index.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Events/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Home/Index.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Home/Privacy.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Shared/Error.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Venues/Create.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Venues/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Venues/Delete.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Venues/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Venues/Details.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Venues/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Venues/Edit.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Venues/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Venues/Index.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Venues/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/_ViewImports.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/_ViewStart.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/part-1-poe-DlaminiThando/EventEase/Views/Shared/_Layout.cshtml]
+[C:/Users/lab_services_student/Desktop/cldvpoept2/EventEase/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h6jhhsk07a
